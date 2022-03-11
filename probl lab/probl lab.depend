@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646296950 source:d:\documents\mihai facultate\poo\poo-lab\probl lab\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+
